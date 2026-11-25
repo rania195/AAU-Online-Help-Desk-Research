@@ -25,16 +25,15 @@ references/ – Research sources and references.
 
 Software and Tools
 Microsoft Word
-Microsoft Excel
-Google Forms (if used)
+Google Forms 
 GitHub
 
 Group Members and Responsibilities
-Member 1 – Rahwa 
-Member 2 – Raniya Data Collection
-Member 3 – Yanet
-Member 4 – Yanit
-Member 5 – Zikra
+Member 1 – Rahwa Research instrument development
+Member 2 – Raniya Research design and proposal
+Member 3 – Yanet Data Analysis
+Member 4 – Yanit Data collection
+Member 5 – Zikra  Report writing and documentation
 
 Research Process
 This repository documents the progress of the research project from proposal development through instrument preparation, data collection, analysis, report writing, and presentation.
